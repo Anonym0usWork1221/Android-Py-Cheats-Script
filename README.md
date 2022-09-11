@@ -40,7 +40,8 @@ Requirments
 
 Documentation, Installation
 ----------------------------------------
-**Simply run PyCheats.py it will automatically install requirements**
+* **__Installation**
+  **Simply run PyCheats.py it will automatically install requirements**
 
 * **__Documentation__**
   1. First of I imported the required packages. The module **InfoCollector** is custom module  
