@@ -40,7 +40,7 @@ Requirments
 
 Documentation, Installation
 ----------------------------------------
-* **__Installation**
+* **__Installation__**
   **Simply run PyCheats.py it will automatically install requirements**
 
 * **__Documentation__**
