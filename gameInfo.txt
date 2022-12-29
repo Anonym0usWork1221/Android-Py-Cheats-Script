@@ -1,2 +1,0 @@
-com.tencent.ig
-/data/app/~~i_IrMBeVZ00PJ5bhbLEqPA==/com.tencent.ig-xao8JXUsOuu_4b_eSlFftQ==/lib/arm64/
