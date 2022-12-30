@@ -48,6 +48,11 @@ Installation
 * **__Auto Installation__**
   1. Simply run ``python3 PyCheats.py`` it will automatically install all requirements**
 
+Video Demonstration
+----------------------------------------
+
+[![VideoDemonstration](https://img.youtube.com/vi/XgKjv0k_8pQ/0.jpg)](https://www.youtube.com/watch?v=XgKjv0k_8pQ)
+
 Old Versions
 ----------------------------------------
 **Old versions can be found in packages section**
