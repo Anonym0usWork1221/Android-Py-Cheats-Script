@@ -28,11 +28,10 @@ and manipulate game values for **Android games**. This tool allows you to bypass
 gain an advantage in your favorite Android games. This documentation provides 
 detailed information for both developers and simple users.
 
---------
-That's it! You can now use PyCheats to enhance your gaming experience and gain an advantage in your 
+> That's it! You can now use PyCheats to enhance your gaming experience and gain an advantage in your 
 favorite Android games. Enjoy cheating responsibly!
 ---------
-LOGS
+## LOGS
 
     -----------------------------------------MODIFICATION LOG--------------------------------------------------
     1. Introducing an enhanced group search system and a streamlined tool arrangement for improved efficiency.
